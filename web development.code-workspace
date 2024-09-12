@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "web development",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "RedStore_Img\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web development"
+	}
+}
